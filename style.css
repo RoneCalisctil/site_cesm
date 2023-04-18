@@ -1,3 +1,8 @@
+*{
+    margin:0;
+    padding:0;
+}
+
 body{
     background-color:aliceblue ;
 }
@@ -5,4 +10,18 @@ body{
 .cabecalho {
     background-color:#2E8094;
     display: flex;
+    align-items: flex-end;
     justify-content: space-around;}
+
+.cabecalho-imagem {
+width: 40%;
+padding: 12px  
+    }
+.lista-cabecalho {
+    display:inline-block;
+    padding:30px;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight:bolder ;
+
+}
