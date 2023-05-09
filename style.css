@@ -35,4 +35,8 @@ padding: 12px;
         padding: 24px 0;
     }
 
-    
+.texto-lista {
+
+    display: inline-block;
+    list-style-type: none;
+}
