@@ -40,3 +40,8 @@ padding: 12px;
     display: inline-block;
     list-style-type: none;
 }
+
+.escola-imagem {
+    width: 150%;
+    margin: 46px;
+}
