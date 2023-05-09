@@ -14,8 +14,8 @@ body{
     justify-content: space-around;}
     
 .cabecalho-imagem{
- width:20%;
- padding: 12px;
+ width:40%;
+padding: 12px;
     }
     
 .lista-cabecalho-item{
@@ -34,3 +34,5 @@ body{
         align-items: center;
         padding: 24px 0;
     }
+
+    
