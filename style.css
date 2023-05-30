@@ -52,7 +52,7 @@ list-style-type: none;
 }
 
 .quem somos {
-background-color:rgba(46, 128, 148, 0.6) 
+background-color: rgba(46, 128, 148, 1)
 }
 .equipe {
  text-align: center;
@@ -62,7 +62,7 @@ background-color:rgba(46, 128, 148, 0.6)
 }
 
 .equipe-escola {
-background-color:rgba(46, 128, 148, 0.6)   ;
+background-color: rgba(46, 128, 148, 1) ;
 display:flex ;
 padding: 50px    ;
 justify-content:space-evenly ;
