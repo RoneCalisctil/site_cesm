@@ -27,7 +27,7 @@ padding: 30px;
     }
 
 .escola {
- background-color:linear-gradient(rgba(46, 128, 148, 1),rgba(46, 128, 148, 0.6));
+ background-image:linear-gradient(rgba(46, 128, 148, 1),rgba(46, 128, 148, 0.6));
 display: flex;
 justify-content: left;
 align-items: center;
