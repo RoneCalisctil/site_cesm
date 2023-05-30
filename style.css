@@ -27,7 +27,7 @@ padding: 30px;
     }
 
 .escola {
- background-color: rgba(46, 128, 148, 1);
+ background-color:linear-gradient(rgba(46, 128, 148, 1),rgba(46, 128, 148, 0.6));
 display: flex;
 justify-content: left;
 align-items: center;
@@ -52,7 +52,7 @@ list-style-type: none;
 }
 
 .quem somos {
-background-color: rgba(46, 128, 148, 1)
+background-color: rgba(46, 128, 148, 0.6))
 }
 .equipe {
  text-align: center;
