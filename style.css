@@ -51,7 +51,11 @@ padding: 12px;
     margin: 20px;
 }
 
+. quem somos {
+    background-color:rgba(46, 128, 148, 0.6) 
 
+
+}
 .equipe {
  text-align: center;
  font-family:'Times New Roman', Times, serif ;
@@ -60,7 +64,6 @@ padding: 12px;
 }
 
 .equipe-escola {
-background-color:rgba(46, 128, 148, 0.6)    ;
 margin:10px;
 display: flex ;
 padding: 50px    ;
