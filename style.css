@@ -62,7 +62,11 @@ padding: 12px;
 }
 
 .equipe-escola {
+<<<<<<< HEAD
+background-color:rgba(46, 128, 148, 0.6)   ;
+=======
 background-color:rgba((46, 128, 148, 0.6))    ;
+>>>>>>> 1973fe559d203bf808750420e8046ad47da188d8
 display:flex ;
 padding: 50px    ;
 justify-content:space-evenly ;
