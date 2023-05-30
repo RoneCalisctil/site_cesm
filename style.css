@@ -19,25 +19,25 @@ padding: 12px;
     
 .lista-cabecalho-item{
         
-        display: inline-block;
-        padding: 30px;
-        color:rgb(234, 240, 233);
-        font-size: 20px;
-        font-weight: bolder;
+ display: inline-block;
+padding: 30px;
+ color:rgb(234, 240, 233);
+ font-size: 20px;
+ font-weight: bolder;
     }
 
-    .escola {
-        background-color: rgba(46, 128, 148, 1);
-        display: flex;
-        justify-content: left;
-        align-items: center;
-        padding: 24px 0;
+.escola {
+ background-color: rgba(46, 128, 148, 1);
+display: flex;
+justify-content: left;
+align-items: center;
+padding: 24px 0
     }
 
 .texto-lista {
 
-    display: inline-block;
-    list-style-type: none;
+ display: inline-block;
+list-style-type: none;
 }
 
 .escola-imagem {
@@ -51,8 +51,8 @@ padding: 12px;
     margin: 20px;
 }
 
-. quem somos {
-    background-color:rgba(46, 128, 148, 0.6) 
+.quem somos {
+background-color:rgba(46, 128, 148, 0.6) 
 }
 .equipe {
  text-align: center;
@@ -62,11 +62,7 @@ padding: 12px;
 }
 
 .equipe-escola {
-<<<<<<< HEAD
 background-color:rgba(46, 128, 148, 0.6)   ;
-=======
-background-color:rgba((46, 128, 148, 0.6))    ;
->>>>>>> 1973fe559d203bf808750420e8046ad47da188d8
 display:flex ;
 padding: 50px    ;
 justify-content:space-evenly ;
