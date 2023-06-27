@@ -51,37 +51,40 @@ list-style-type: none;
     margin: 20px;
 }
 
-.quem-somos {
-    background-color: rgba(46, 128, 148, 0.6)
-}
-.equipe {
- text-align: center;
- font-family:'Times New Roman', Times, serif ;
- font-size:  35px;
- color:black;
-}
-
-.equipe-escola {
+.QuemSomos{
+    background-color:rgba(46, 128, 148, 0.6)
   
-display:flex ;
-padding: 50px    ;
-justify-content:space-evenly ;
-}
-
-.equipe-colunas {
-display:  contents  ;
-list-style-type: none;
-text-align:  center;
-}
-
-.profissional-nome {
- text-align: center;
- font-family: 'Times New Roman', Times, serif;
- font-size:20px;
- padding:10px
-
-}
-
-.imagem-equipe {
-    width:80%
-}
+  }
+  
+  .equipe {
+    text-align: center ;
+    font-family: 'Times New Roman';
+    font-size: 35px;
+  
+  }
+  
+  .equipe-escola{
+    
+    display:flex ;
+    padding: 50px;
+    justify-content:space-evenly}
+  
+  .equipe-colunas {
+  
+    display: contents;
+    list-style-type: none;
+    text-align: center; 
+  }
+  
+  .profissional-nome {
+  
+    text-align: center ;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    padding: 10px;
+  
+  }
+  
+  .icones {
+    width:30%;
+  }
