@@ -91,8 +91,7 @@ list-style-type: none;
 
 footer{
 text-align:center;
-rgba(62, 63, 68, 0.75);
+background-color: rgba(62, 63, 68, 0.75);
 padding: 10px 0;
-
 
 }
